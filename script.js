@@ -21,4 +21,3 @@ document.documentElement.style.setProperty("--fontsize", ${value}px);
 } else if (name.trim() === "fontcolor") {
 document.documentElement.style.setProperty("--fontcolor", ${value});
 }
-}
