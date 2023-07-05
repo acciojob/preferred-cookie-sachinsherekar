@@ -1,5 +1,3 @@
-//your JS code here. If required.
-//your code here
 const form = document.querySelector("form");
 
 form.addEventListener("submit", function (event) {
